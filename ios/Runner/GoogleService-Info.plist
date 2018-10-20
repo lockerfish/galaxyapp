@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>753998137128-eeo44g4v0e5rf7fp5unlgi55qnl05ehi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.753998137128-eeo44g4v0e5rf7fp5unlgi55qnl05ehi</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAmkPpLu3_-mVc9jmsYRJqr7MBalrCAH44</string>
+	<key>GCM_SENDER_ID</key>
+	<string>753998137128</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.lockerfish.galaxyapp</string>
+	<key>PROJECT_ID</key>
+	<string>galaxyapp-9bfa0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>galaxyapp-9bfa0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:753998137128:ios:3e5f4a895c19a372</string>
+	<key>DATABASE_URL</key>
+	<string>https://galaxyapp-9bfa0.firebaseio.com</string>
+</dict>
+</plist>
